@@ -1,0 +1,6 @@
+{
+  "name": "PocketStrike",
+  "description": "Autonomous AI Agent & Mobile LLM Client with multi-provider intelligence, local tools, and MCP support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
